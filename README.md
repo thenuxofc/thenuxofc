@@ -1,92 +1,114 @@
+<!-- ████████╗██╗  ██╗███████╗███╗   ██╗██╗   ██╗██╗  ██╗ -->
+<!-- ╚══██╔══╝██║  ██║██╔════╝████╗  ██║██║   ██║╚██╗██╔╝ -->
+<!--    ██║   ███████║█████╗  ██╔██╗ ██║██║   ██║ ╚███╔╝  -->
+<!--    ██║   ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║ ██╔██╗  -->
+<!--    ██║   ██║  ██║███████╗██║ ╚████║╚██████╔╝██╔╝ ██╗ -->
+<!--    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ -->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d47a1&height=200&section=header&text=THENUX&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20API%20Creator&descAlignY=60&descAlign=50&descColor=a0c4ff&descSize=18" width="100%"/>
+<!-- ANIMATED HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1a,30:0d1f3c,60:0d47a1,100:00d4ff&height=220&section=header&text=THENUX&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20API%20Creator%20%E2%80%A2%20Open%20Source&descAlignY=62&descAlign=50&descColor=a0c4ff&descSize=17&stroke=7b61ff&strokeWidth=2" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- ANIMATED TYPING -->
 <a href="https://github.com/thenuxofc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+THENUX+%F0%9F%9A%80;Full-Stack+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;AI+Builder+%26+API+Creator+%F0%9F%A4%96;Building+things+people+will+remember+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F;Let's+build+the+future+together+%F0%9F%94%A5" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Hey+there%21+I'm+THENUX+%F0%9F%9A%80;Full-Stack+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;AI+Builder+%26+Smart+Assistant+Creator+%F0%9F%A4%96;Public+API+%26+Automation+Engineer+%F0%9F%94%8C;Open+Source+Contributor+%F0%9F%8C%9F;Security+%26+Verification+Systems+%F0%9F%94%92;Building+things+people+will+remember+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Profile Views + Followers Badges -->
-[![](https://komarev.com/ghpvc/?username=thenuxofc&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/thenuxofc)
-[![GitHub followers](https://img.shields.io/github/followers/thenuxofc?label=FOLLOWERS&style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/thenuxofc?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/thenuxofc?label=TOTAL+STARS&style=flat-square&color=ffd700&labelColor=0d1117)](https://github.com/thenuxofc)
+<!-- ANIMATED PROFILE VIEWS + BADGES -->
+<img src="https://komarev.com/ghpvc/?username=thenuxofc&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Views"/>
+<img src="https://img.shields.io/github/followers/thenuxofc?style=for-the-badge&color=7b61ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/thenuxofc?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS" alt="Stars"/>
 
 </div>
 
 ---
 
-<!-- Snake Animation -->
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hello World!
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="border-radius: 10px; margin-left: 20px;"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" style="border-radius:12px; margin-left:20px; margin-bottom:10px;"/>
 
 ```typescript
-const THENUX = {
+╔══════════════════════════════════════════╗
+║           THENUX.config.ts               ║
+╠══════════════════════════════════════════╣
+const dev = {
   name:     "THENUX",
-  location: "Sri Lanka 🇱🇰",
-  role:     "Full-Stack Developer & AI Builder",
+  country:  "Sri Lanka 🇱🇰",
+  role:     "Full-Stack Dev & AI Builder",
 
-  skills: {
-    languages:  ["JavaScript", "TypeScript", "Python", "C#", "Java", "PHP"],
-    frontend:   ["React", "Next.js", "Tailwind CSS", "Vite", "React Native"],
-    backend:    ["Node.js", "Express", "REST APIs", "Firebase"],
-    databases:  ["MongoDB", "MySQL", "Supabase", "Firebase"],
-    cloud:      ["Vercel", "Netlify", "Google Cloud", "Cloudflare"],
-    tools:      ["Git", "GitHub Actions", "Figma", "Arduino"],
-  },
-
-  building: [
-    "🤖 AI Tools & Smart Assistants",
+  passion: [
+    "🤖 Building AI Tools",
     "🌐 Modern Web Apps",
-    "🔌 Public APIs & Automations",
+    "🔌 Public APIs & SDKs",
     "📱 Mobile Applications",
-    "🔒 Security & Verification Systems",
+    "🔒 Security Systems",
   ],
 
-  currentGoals: [
-    "Shipping innovative AI products",
-    "Growing the THENUX ecosystem",
-    "Contributing to open-source",
-  ],
+  stack:   ["JS","TS","Python","React","Node"],
+  db:      ["MongoDB","Firebase","Supabase"],
+  cloud:   ["Vercel","GCP","Cloudflare"],
 
-  quote: "Build something people will remember. ✨"
+  coffee:  "☕ → 💡 → 🔌 → 🚀",
+  quote:   "Build something people will remember ✨"
 };
+╚══════════════════════════════════════════╝
 ```
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> What I Build
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> What I Build
 
 <div align="center">
 
-| 🤖 AI Tools | 🌐 Web Apps | 🔌 APIs | 📱 Mobile |
-|:-----------:|:-----------:|:-------:|:---------:|
-| Smart Assistants | Modern UI/UX | REST Endpoints | Cross-platform |
-| Automation Bots | Landing Pages | Webhooks | React Native |
-| AI Integrations | Dashboards | Auth Systems | PWA Apps |
-| LLM Workflows | Full-Stack Apps | SDKs | Offline-first |
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80"/><br/>
+<b>🤖 AI Tools</b><br/>
+<sub>Smart Assistants · LLM Apps · Chatbots</sub>
+</td>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/><br/>
+<b>🌐 Web Apps</b><br/>
+<sub>React · Next.js · Futuristic UI/UX</sub>
+</td>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80"/><br/>
+<b>🔌 Public APIs</b><br/>
+<sub>Node.js · REST · Webhooks</sub>
+</td>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="80"/><br/>
+<b>🔒 Security</b><br/>
+<sub>Auth · Verification · Crypto</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> Tech Arsenal
 
-### 🧠 Languages
+<details open>
+<summary><b>🧠 Languages</b></summary>
+<br/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -98,7 +120,12 @@ const THENUX = {
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-### ⚡ Frontend
+</details>
+
+<details open>
+<summary><b>⚡ Frontend & Frameworks</b></summary>
+<br/>
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -109,21 +136,28 @@ const THENUX = {
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-### 🔧 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Framework7](https://img.shields.io/badge/Framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white)
 
-### 🗄️ Databases
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Backend</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### ☁️ Cloud & Deployment
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -131,32 +165,39 @@ const THENUX = {
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-### 🎨 Design & Creative
+</details>
+
+<details>
+<summary><b>🎨 Design & Creative</b></summary>
+<br/>
+
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
+</details>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/> GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=thenuxofc&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=thenuxofc&theme=shadow_blue&hide_border=false" alt="GitHub Streak" width="49%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thenuxofc&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" width="40%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenuxofc&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="58%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=thenuxofc&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" alt="GitHub Stats" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=thenuxofc&theme=shadow_blue&hide_border=false&border_radius=12" alt="GitHub Streak" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thenuxofc&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12&border_radius=12" alt="Top Languages" width="41%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenuxofc&theme=react-dark&hide_border=true&area=true&area_color=00d4ff&color=00d4ff&line=7b61ff&point=ffffff&custom_title=Contribution%20Graph&radius=8" alt="Activity Graph" width="57%"/>
+
 </div>
 
 ---
@@ -165,31 +206,83 @@ const THENUX = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=thenuxofc&theme=algolia&no-frame=false&no-bg=true&margin-w=8&column=7)
+![](https://github-profile-trophy.vercel.app/?username=thenuxofc&theme=algolia&no-frame=false&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,PR,Issues,Repos,MultipleLang)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Let's Connect!
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="28"/> Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   ████████████░░░░░░░░░   52%
+TypeScript   ████████░░░░░░░░░░░░░   28%
+Python       ████░░░░░░░░░░░░░░░░░   14%
+Other        ██░░░░░░░░░░░░░░░░░░░    6%
+```
+<!--END_SECTION:waka-->
+
+[![WakaTime](https://wakatime.com/badge/user/thenuxofc.svg?style=for-the-badge)](https://wakatime.com/@thenuxofc)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════╗
+║                  STATUS BOARD                      ║
+╠════════════════════════════════════════════════════╣
+║  🔭 Building     → Next-gen AI-powered products   ║
+║  🌱 Learning     → LLM Fine-tuning & AI Agents   ║
+║  👯 Looking For  → Open Source AI collaborations  ║
+║  💬 Ask Me About → JS · Node.js · APIs · AI      ║
+║  ⚡ Fun Fact     → I turn ☕ into 🔌 every day    ║
+║  🎵 Coding To    → Lo-fi hip hop beats            ║
+╚════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> Let's Connect!
 
 <div align="center">
 
 <a href="https://github.com/thenuxofc">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://instagram.com/thenux_ofc">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:sup@thenuxofc.store">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**💬 Open to collaborations, freelance projects & open-source contributions!**
+> 💬 **Open to collaborations, freelance projects & open-source contributions!**
+>
+> 🌟 *If my work helped you, drop a ⭐ — it means the world!*
 
-> 🚀 *If you find my projects useful, a ⭐ star goes a long way!*
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=thenuxofc&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide_contributor_rank=false)
 
 </div>
 
@@ -205,53 +298,21 @@ const THENUX = {
 
 ---
 
-## 🔝 Top Contributed Repos
-
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=thenuxofc&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b61ff,100:060d1a&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+<sub>⚡ Made with passion & lots of ☕ by <b>THENUX</b> from 🇱🇰 Sri Lanka</sub><br/>
+<sub><i>"Build something people will remember."</i> ✨</sub>
 
 </div>
 
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!-- This section is auto-updated via WakaTime GitHub Action -->
-<!--END_SECTION:waka-->
-
-[![WakaTime](https://wakatime.com/badge/user/thenuxofc.svg?style=for-the-badge)](https://wakatime.com/@thenuxofc)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```
-🔭 Building → Next-gen AI-powered tools
-🌱 Learning → Advanced AI/ML integrations & LLM fine-tuning  
-👯 Looking → To collaborate on Open Source AI projects
-💬 Ask me → JavaScript, Node.js, APIs, AI Integration
-⚡ Fun fact → I turn coffee into APIs ☕ → 🔌
-```
-
-</div>
-
----
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00d4ff&height=120&section=footer" width="100%"/>
-
-<div align="center">
-
-<sub>⚡ Made with passion by **THENUX** from 🇱🇰 Sri Lanka</sub>
-
-<sub>*"Build something people will remember."* ✨</sub>
-
-</div>
+<!--
+  ███████╗███╗   ██╗██████╗
+  ██╔════╝████╗  ██║██╔══██╗
+  █████╗  ██╔██╗ ██║██║  ██║
+  ██╔══╝  ██║╚██╗██║██║  ██║
+  ███████╗██║ ╚████║██████╔╝
+  ╚══════╝╚═╝  ╚═══╝╚═════╝
+-->
