@@ -1,363 +1,1117 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   ████████╗██╗  ██╗███████╗███╗   ██╗██╗   ██╗██╗  ██╗       -->
-<!--   ╚══██╔══╝██║  ██║██╔════╝████╗  ██║██║   ██║╚██╗██╔╝       -->
-<!--      ██║   ███████║█████╗  ██╔██╗ ██║██║   ██║ ╚███╔╝        -->
-<!--      ██║   ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║ ██╔██╗        -->
-<!--      ██║   ██║  ██║███████╗██║ ╚████║╚██████╔╝██╔╝ ██╗       -->
-<!--      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a00,80:003300,100:00ff41&height=250&section=header&text=THENUX&fontSize=100&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=Independent%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Sri%20Lanka&descAlignY=65&descAlign=50&descColor=39ff14&descSize=16&stroke=00ff41&strokeWidth=1" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-</div>
+<!--                         THENUX GITHUB PROFILE                         -->
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/thenuxofc">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=780&height=36&lines=thenux%40dev%3A~%24+whoami+%E2%86%92+Independent+Developer+%26+AI+Builder+%F0%9F%9A%80;thenux%40dev%3A~%24+curl+location.api+%E2%86%92+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+%5BGMT%2B5%3A30%5D;thenux%40dev%3A~%24+ls+projects%2F+%E2%86%92+Jarvis+%C2%B7+Browser+%C2%B7+Music+%C2%B7+APIs;thenux%40dev%3A~%24+echo+%24STACK+%E2%86%92+JS+%C2%B7+TS+%C2%B7+Python+%C2%B7+React+%C2%B7+Electron;thenux%40dev%3A~%24+git+status+%E2%86%92+always+shipping%2C+never+stopping+%F0%9F%94%A5;thenux%40dev%3A~%24+systemctl+status+%E2%86%92+%5BONLINE%5D+Open+to+Collabs+%26+Freelance" alt="Typing SVG"/>
+<a href="https://thenuxofc.store/">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:07130d,70:0b2618,100:00ff88&height=280&section=header&text=THENUX&fontSize=104&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=INDEPENDENT%20DEVELOPER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20PRODUCT%20ENGINEER&descAlignY=64&descColor=8affc1&descSize=15&stroke=00ff88&strokeWidth=1"/>
+
 </a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=850&color=8AFFC1&center=true&vCenter=true&width=850&height=42&lines=thenux%40dev%3A~%24+whoami+%E2%86%92+Independent+Developer+%26+AI+Builder;thenux%40dev%3A~%24+focus+%E2%86%92+AI+%C2%B7+APIs+%C2%B7+Developer+Tools+%C2%B7+Apps;thenux%40dev%3A~%24+build+%E2%86%92+THENUX+AI+%C2%B7+API+%C2%B7+CLI+%C2%B7+JARVIS+%C2%B7+Mail;thenux%40dev%3A~%24+stack+%E2%86%92+TypeScript+%C2%B7+React+%C2%B7+Python+%C2%B7+Node.js;thenux%40dev%3A~%24+mode+%E2%86%92+BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+SHIPPING+%F0%9F%9A%80" alt="THENUX Terminal"/>
 
 <br/><br/>
 
-<a href="https://github.com/thenuxofc"><img src="https://komarev.com/ghpvc/?username=thenuxofc&style=for-the-badge&color=00ff41&labelColor=000000&label=PROFILE+VIEWS" alt="Views"/></a>
-<a href="https://github.com/thenuxofc?tab=followers"><img src="https://img.shields.io/github/followers/thenuxofc?style=for-the-badge&color=00ff41&labelColor=000000&label=FOLLOWERS" alt="Followers"/></a>
-<a href="https://github.com/thenuxofc"><img src="https://img.shields.io/github/stars/thenuxofc?style=for-the-badge&color=00ff41&labelColor=000000&label=TOTAL+STARS" alt="Stars"/></a>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000" alt="Status"/>
+<a href="https://github.com/thenuxofc">
+<img src="https://komarev.com/ghpvc/?username=thenuxofc&style=for-the-badge&color=00ff88&labelColor=080808&label=PROFILE+VIEWS"/>
+</a>
+
+<a href="https://github.com/thenuxofc?tab=followers">
+<img src="https://img.shields.io/github/followers/thenuxofc?style=for-the-badge&color=00ff88&labelColor=080808&label=FOLLOWERS"/>
+</a>
+
+<a href="https://github.com/thenuxofc">
+<img src="https://img.shields.io/github/stars/thenuxofc?style=for-the-badge&color=00ff88&labelColor=080808&label=STARS"/>
+</a>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<div align="center">
+
+### `// ENGINEERING PROFILE`
+
+<table>
+<tr>
+<td align="center" width="180">
+
+<b>🤖 AI</b><br/>
+Agents · LLMs<br/>
+Tools · Automation
+
+</td>
+
+<td align="center" width="180">
+
+<b>⚡ BACKEND</b><br/>
+APIs · Edge<br/>
+Cloud · Systems
+
+</td>
+
+<td align="center" width="180">
+
+<b>🌐 PRODUCT</b><br/>
+Web · SaaS<br/>
+UI · UX
+
+</td>
+
+<td align="center" width="180">
+
+<b>🖥️ SOFTWARE</b><br/>
+Desktop · Mobile<br/>
+Developer Tools
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:10px;margin-left:20px"/>
+## 👋 `whoami`
 
 ```bash
 ┌──(thenux㉿dev)-[~]
-└─$ cat about.md
+└─$ whoami
+
+THENUX
+
+Independent Developer
+AI Builder
+Student Developer
+Product Builder
+Open Source Enthusiast
+Software Experimenter
 ```
 
-> **Thenux** is an independent software developer from Sri Lanka focused on building
-> AI-powered applications, desktop software, automation tools, and modern web technologies.
->
-> The primary focus is creating practical software that combines artificial intelligence
-> with clean, real-world usability. Current projects include:
->
-> - 🤖 **Thenux AI (Jarvis)** — an advanced AI assistant with tool-calling and coding capabilities
-> - 🌐 **Thenux Browser** — a modern desktop web browser
-> - 🎵 **Thenux Music** — an immersive music platform
-> - 🔌 A growing collection of **APIs, automation utilities, and open-source developer tools**
->
-> Development spans JavaScript, Python, Node.js, React, Next.js, Electron, Cloudflare
-> Workers, Firebase, and web automation frameworks such as Puppeteer and Playwright.
-> Many repositories explore AI integrations, REST APIs, web scraping, desktop development,
-> browser technologies, productivity software, and experimental developer platforms.
->
-> Every project is built with an emphasis on **performance, modern design, extensibility,
-> and real-world usability** — whether that means AI systems, desktop applications, browser
-> experiences, or automation frameworks.
->
-> Repositories are actively maintained and continue to expand with new experiments in
-> artificial intelligence, developer tooling, automation, desktop computing, and
-> next-generation user interfaces.
+I'm **Thenux**, an independent developer from 🇱🇰 **Sri Lanka** building software across AI, web, APIs, developer infrastructure, desktop applications, automation and productivity.
 
-```bash
-┌──(thenux㉿dev)-[~]
-└─$ cat profile.json
+I enjoy taking an idea from:
+
+```text
+IDEA
+  ↓
+RESEARCH
+  ↓
+ARCHITECTURE
+  ↓
+UI / UX
+  ↓
+CODE
+  ↓
+BACKEND
+  ↓
+SECURITY
+  ↓
+DEPLOYMENT
+  ↓
+REAL USERS
+  ↓
+ITERATE
+```
+
+I'm particularly interested in the intersection of:
+
+**Artificial Intelligence × Software Engineering × Product Design × Developer Experience**
+
+Instead of only experimenting with individual technologies, I'm building a growing ecosystem under the **THENUX** name.
+
+---
+
+## 🧬 `cat thenux.config`
+
+```json
 {
-  "name"     : "THENUX",
-  "country"  : "Sri Lanka 🇱🇰",
-  "timezone" : "Asia/Colombo GMT+5:30",
-  "role"     : "Independent Developer & AI Builder",
-  "focus"    : [
-    "🤖 AI Assistants & Tool-Calling Agents",
-    "🖥️  Desktop Software (Electron & PyQt)",
-    "🌐 Browsers & Modern Web Platforms",
-    "🎵 Media & Productivity Applications",
-    "🔌 Public APIs & Open SDKs",
-    "🔒 Security & Auth Systems"
+  "name": "THENUX",
+  "role": "Independent Developer & AI Builder",
+  "location": "Sri Lanka 🇱🇰",
+  "timezone": "Asia/Colombo",
+  "primary_focus": [
+    "Artificial Intelligence",
+    "AI Agents",
+    "Developer Tools",
+    "API Infrastructure",
+    "Modern Web Applications",
+    "Desktop Software",
+    "Automation",
+    "Productivity Systems",
+    "Security",
+    "Cloud & Edge Computing"
   ],
-  "stack"    : ["JS","TS","Python","React","Node","Electron"],
-  "cloud"    : ["Vercel","Cloudflare Workers","GCP","Firebase"],
-  "coffee"   : "☕ → 💡 → 🔌 → 🚀 → repeat",
-  "status"   : "🟢 ONLINE — Open to collabs"
+  "main_stack": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "React",
+    "Node.js",
+    "Vite",
+    "Electron",
+    "Firebase",
+    "Cloudflare Workers"
+  ],
+  "current_mode": "BUILDING",
+  "philosophy": "Build → Ship → Learn → Improve",
+  "status": "🟢 ONLINE"
 }
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🧬 Flagship Projects
+# 🚀 THENUX ECOSYSTEM
 
 <div align="center">
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| 🤖 **[Thenux AI — Jarvis](https://github.com/thenuxofc/T.H.E.N.U.X-JARVIS-V3)** | Advanced AI system assistant — tool-calling, OS control, voice, and coding capabilities | Python · PyQt6 · Ollama · Custom LLM API |
-| 🌐 **Thenux Browser** | A modern, fast desktop web browser built from the ground up | Electron · Chromium · JS/TS |
-| 🎵 **Thenux Music** | An immersive music platform for discovery and playback | React · Node.js · Web Audio API |
-| 🔌 **APIs & Dev Tools** | A growing collection of public APIs, automation utilities, and open-source tooling | Node.js · Cloudflare Workers · REST |
+### One developer. Multiple products. One ecosystem.
 
 </div>
 
 ---
 
-## 💻 Live Interactive Terminal
+## 🤖 THENUX AI
 
-<div align="center">
-
-> **Click the terminal below — type real commands and watch it respond!**
-
-[![LAUNCH TERMINAL](https://img.shields.io/badge/▶%20%20LAUNCH%20LIVE%20TERMINAL%20%20◀-00ff41?style=for-the-badge&logo=gnubash&logoColor=000000&labelColor=000000)](https://thenuxdrop.netlify.app/arcade)
-
-<a href="https://thenuxdrop.netlify.app/arcade" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&pause=900&color=00FF41&background=0D0D0D&center=true&vCenter=true&multiline=true&width=680&height=130&lines=thenux%40dev%3A~%24+whoami;++THENUX+%E2%80%94+Independent+Developer+%26+AI+Builder+%F0%9F%87%B1%F0%9F%87%B0;thenux%40dev%3A~%24+cat+skills.matrix;++%5BMASTERED%5D+JS+%7C+TS+%7C+React+%7C+Node+%7C+Python;thenux%40dev%3A~%24+echo+%24STATUS;++%F0%9F%9F%A2+ONLINE+%E2%80%94+Open+to+Collabs+%26+Freelance" alt="Terminal Preview"/>
+<a href="https://ai.thenuxofc.store/">
+<img src="https://img.shields.io/badge/LIVE-ai.thenuxofc.store-00ff88?style=for-the-badge&labelColor=080808"/>
 </a>
 
-**[→ Open Full Interactive Terminal](https://thenuxdrop.netlify.app/arcade)**
-*Commands: `whoami` · `skills` · `tech stack` · `git log` · `status` · `nmap scan`*
+**THENUX AI** is the central AI platform I'm building.
 
-</div>
+It's designed as more than a simple chatbot — it combines AI models, streaming, tools, developer workflows, authentication, web capabilities and application-generation concepts into one platform.
 
----
+```text
+                         ┌───────────────────┐
+                         │    THENUX AI      │
+                         └─────────┬─────────┘
+                                   │
+          ┌────────────┬───────────┼────────────┬─────────────┐
+          ▼            ▼           ▼            ▼             ▼
+       CHAT          TOOLS       SEARCH       VISION        VOICE
+          │            │           │            │             │
+          └────────────┴───────────┼────────────┴─────────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │   AI ROUTING      │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │  EDGE BACKEND     │
+                         └───────────────────┘
+```
 
-## ⚡ What I Build
+### Core areas
 
-<div align="center">
-
-| 🤖 AI Tools | 🖥️ Desktop | 🌐 Web Apps | 🔌 APIs & Automation |
-|:-----------:|:-----------:|:-----------:|:--------------------:|
-| Smart Assistants | Electron Apps | React · Next.js | Node.js · REST |
-| LLM Applications | PyQt6 HUDs | Futuristic UI/UX | Webhooks · SDKs |
-| Chatbot Engines | Cross-Platform Tools | Browsers & Music Platforms | Web Scraping (Puppeteer/Playwright) |
-| RAG Pipelines | System-Level Automation | SaaS Platforms | Rate Limiting & Auth |
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Desktop & Automation**
-
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Electron Builder](https://img.shields.io/badge/Inno_Setup-004B87?style=for-the-badge&logoColor=white)
-
-**AI / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs_TTS-000000?style=for-the-badge&logoColor=white)
-
-**Cloud & DevOps**
-
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-</div>
+* 💬 AI conversations
+* 🧠 Multi-model architecture
+* ⚡ Streaming responses
+* 🔎 Web search
+* 🛠️ Tools / skills / plugins
+* 🖼️ Vision
+* 🎙️ Voice
+* 🧑‍💻 Developer workflows
+* 🏗️ AI application generation
+* 🌐 Web application generation
+* 🔐 Authentication
+* 🗂️ Workspace concepts
+* ☁️ Cloudflare edge infrastructure
+* 🔒 Security / anti-abuse architecture
 
 ---
 
-## 📊 GitHub Stats
+# 🔌 THENUX API
+
+<a href="https://api.thenuxofc.store/">
+<img src="https://img.shields.io/badge/API-api.thenuxofc.store-00ff88?style=for-the-badge&labelColor=080808"/>
+</a>
+
+**THENUX API** is the developer infrastructure layer around the THENUX ecosystem.
+
+```text
+                    YOUR APPLICATION
+                           │
+                           ▼
+                   ┌───────────────┐
+                   │  THENUX API   │
+                   └───────┬───────┘
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+           AUTH          ROUTING      LIMITS
+              │            │            │
+              └────────────┼────────────┘
+                           ▼
+                    AI / SERVICES
+```
+
+### API concepts
+
+* REST APIs
+* Streaming APIs
+* Server-Sent Events
+* API authentication
+* API keys
+* Usage tracking
+* Rate limiting
+* Model routing
+* Developer documentation
+* Image / media endpoints
+* Voice endpoints
+* Cloudflare edge infrastructure
+
+### API surface
+
+```text
+/api/chat
+/api/stream
+/api/models
+/api/plans
+/api/usage
+/api/key/create
+/api/image
+/api/video
+/api/voice/chat
+/api/chats/:id/messages/stream
+```
+
+---
+
+# ⚡ THENUX CLI
+
+<a href="https://github.com/thenuxofc/thenux-cli">
+<img src="https://img.shields.io/badge/GitHub-thenux--cli-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+**THENUX CLI** is an AI-powered command-line developer agent.
+
+The goal is to bring AI-assisted development into the terminal.
+
+```bash
+$ thenux
+
+┌──────────────────────────────────────────┐
+│             THENUX CLI                   │
+├──────────────────────────────────────────┤
+│                                          │
+│  Understand → Plan → Modify → Execute    │
+│                                          │
+│  AI-assisted development in your shell   │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+Areas explored:
+
+* AI coding agents
+* CLI interfaces
+* project inspection
+* code generation
+* file manipulation
+* developer workflows
+* AI-assisted automation
+* THENUX API integration
+
+---
+
+# 🧠 T.H.E.N.U.X JARVIS
+
+<a href="https://github.com/thenuxofc/T.H.E.N.U.X-JARVIS-V3">
+<img src="https://img.shields.io/badge/GitHub-JARVIS-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+**JARVIS** is one of my longest-running AI desktop projects.
+
+It explores:
+
+* 🤖 AI assistants
+* 🎙️ Voice interaction
+* 🧠 LLM integration
+* 🖥️ Desktop interfaces
+* ⚙️ System automation
+* 💻 Coding assistance
+* 🔌 Tool integration
+* 🪟 Windows desktop workflows
+
+```text
+                  ┌─────────────┐
+                  │    USER     │
+                  └──────┬──────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    JARVIS     │
+                 └───────┬───────┘
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+       VOICE            AI             TOOLS
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                 DESKTOP / SYSTEM
+```
+
+---
+
+# 📧 THENUX MAIL
+
+<a href="https://mail.thenuxofc.store/">
+<img src="https://img.shields.io/badge/LIVE-mail.thenuxofc.store-00ff88?style=for-the-badge&labelColor=080808"/>
+</a>
+
+A developer-focused email / verification portal experiment.
+
+Focus:
+
+* 📩 Email workflows
+* 🔐 Verification codes
+* ⚡ Fast web UI
+* 🔥 Firebase-backed architecture
+* 🧑‍💻 Developer experience
+* 🌐 Modern responsive interface
+
+---
+
+# 🎓 THENUX SCHOLAR
+
+AI-powered study and productivity experimentation.
+
+The idea is to make AI part of the **actual learning workflow** rather than simply putting a chatbot next to a textbook.
+
+Areas:
+
+* 📚 Study assistance
+* 🧠 AI learning workflows
+* 📝 Notes
+* 🎯 Focus
+* ⏱️ Study sessions
+* 📊 Productivity
+* 💻 Desktop study environment
+
+---
+
+# 🔒 THENUX STUDY / LOCK-IN
+
+A focus-oriented software concept designed around distraction resistance.
+
+```text
+CASUAL
+   │
+   ▼
+Flexible focus
+   │
+   ▼
+STRICT
+   │
+   ▼
+Reduced distractions
+   │
+   ▼
+HARDCORE
+   │
+   ▼
+Maximum lock-in
+```
+
+The goal is to explore how software can encourage **actual focused work**, not simply display productivity statistics.
+
+---
+
+# 📱 OTHER PROJECTS
+
+| Project                  | Area              | Description                        |
+| ------------------------ | ----------------- | ---------------------------------- |
+| **Reply AI**             | Android / AI      | AI assistant experimentation       |
+| **ROOTCODE**             | Developer Tools   | Coding and developer experiments   |
+| **GlucoGuide / AQUINAS** | Applications      | Practical application experiments  |
+| **THENUX Billing**       | Business Software | Billing / workflow experimentation |
+| **THENUX Hosting**       | Infrastructure    | Hosting / deployment experiments   |
+| **THENUX Drop**          | Web               | Interactive developer experiments  |
+
+> Not every project is intended to become a giant platform. Some projects exist to explore an idea, technology or architecture.
+
+---
+
+# 🧰 TECH ARSENAL
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=thenuxofc&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=10&border_color=00ff41&title_color=00ff41&icon_color=39ff14&text_color=ccffcc&bg_color=000000" alt="GitHub Stats" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=thenuxofc&theme=dark&hide_border=false&border_radius=10&border=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&background=000000&stroke=00ff41&sideLabels=00cc33&dates=009922&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="49%"/>
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,cpp,cs,php,html,css,bash,powershell&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thenuxofc&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12&border_radius=10&border_color=00ff41&title_color=00ff41&text_color=ccffcc&bg_color=000000" alt="Top Languages" width="40%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenuxofc&theme=react-dark&hide_border=false&area=true&area_color=00ff41&color=00ff41&line=39ff14&point=ffffff&bg_color=000000&border_color=00ff41&custom_title=Contribution+Activity&radius=6" alt="Activity Graph" width="58%"/>
+### Core Languages
+
+`JavaScript` `TypeScript` `Python` `Java` `Kotlin` `C` `C++` `C#` `PHP`
+
+### Web Languages
+
+`HTML` `CSS` `JavaScript` `TypeScript`
+
+### Scripting / Automation
+
+`Bash` `PowerShell` `Python` `Node.js`
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🌐 Frontend Engineering
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thenuxofc&theme=matrix&no-frame=false&no-bg=false&margin-w=6&column=7&title=Stars,Followers,Commits,PR,Issues,Repos,MultipleLang"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,webgl,redux&theme=dark"/>
 
 </div>
 
----
+### Technologies
 
-## 🖥️ Skill Matrix
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  [ THENUX ] SKILL SCAN ————————————————————— v3.0  [COMPLETE]   ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║  JavaScript   [██████████████████████████████] 98%  ✅ MASTERED  ║
-║  TypeScript   [████████████████████████░░░░░░] 88%  ✅ ADVANCED  ║
-║  React/Next   [█████████████████████████████░] 95%  ✅ MASTERED  ║
-║  Node.js      [██████████████████████████████] 97%  ✅ MASTERED  ║
-║  Python       [██████████████████████████░░░░] 86%  ✅ ADVANCED  ║
-║  Electron     [████████████████████████░░░░░░] 84%  ✅ ADVANCED  ║
-║  PyQt6/Desktop[██████████████████████░░░░░░░░] 80%  ✅ ADVANCED  ║
-║  MongoDB      [████████████████████████░░░░░░] 85%  ✅ ADVANCED  ║
-║  AI / LLMs    [██████████████████████████░░░░] 84%  ✅ ADVANCED  ║
-║  Automation   [█████████████████████████░░░░░] 82%  ✅ ADVANCED  ║
-║  Security     [███████████████████████░░░░░░░] 82%  ✅ ADVANCED  ║
-║  DevOps/CI    [████████████████████░░░░░░░░░░] 74%  🔄 GROWING  ║
-║  System Design[██████████████████████████░░░░] 88%  ✅ ADVANCED  ║
-║                                                                   ║
-║  > All systems nominal. Ready to ship. 🚀                        ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+* React
+* Next.js
+* Vite
+* React Native
+* Tailwind CSS
+* Framer Motion
+* GSAP
+* ScrollTrigger
+* Lenis
+* Three.js
+* WebGL
+* Web Audio API
+* Responsive UI
+* Component Architecture
+* SPA Architecture
+* PWA concepts
+* Modern CSS
+* Animation systems
+* Interaction design
 
 ---
 
-## 🕒 WakaTime Activity
+# ⚙️ Backend Engineering
 
 <div align="center">
 
-<!--START_SECTION:waka-->
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark"/>
+
+</div>
+
+### Backend
+
+* Node.js
+* Express.js
+* FastAPI
+* REST APIs
+* GraphQL
+* WebSockets
+* Server-Sent Events
+* API routing
+* Middleware architecture
+* Authentication
+* Authorization
+* Rate limiting
+* API key systems
+* Usage systems
+* Streaming infrastructure
+* Serverless functions
+
+---
+
+# 🗄️ Databases & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,postgres,supabase,redis,prisma&theme=dark"/>
+
+</div>
+
+### Databases / Data Systems
+
+* Firebase
+* Firestore
+* MongoDB
+* MySQL
+* PostgreSQL
+* SQLite
+* Supabase
+* Redis
+* Prisma
+* Realtime databases
+* Document databases
+* Relational databases
+* Authentication data
+* Usage tracking
+* Application state
+
+---
+
+# 🤖 AI / ML / LLM ENGINEERING
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</div>
+
+### AI Technologies / Concepts
+
+* Large Language Models
+* AI Agents
+* Agentic workflows
+* Tool calling
+* Function calling
+* Multi-model routing
+* Prompt engineering
+* Streaming generation
+* Vision models
+* Speech-to-text
+* Text-to-speech
+* AI coding systems
+* AI assistants
+* RAG concepts
+* Embeddings
+* Vector search concepts
+* Local AI
+* Ollama
+* OpenAI APIs
+* Anthropic APIs
+* Google AI ecosystem
+* Hugging Face
+* NVIDIA AI infrastructure
+* Cloud AI
+* Model fallback architectures
+* AI API abstraction layers
+
+### Frameworks / Libraries
+
+* LangChain
+* TensorFlow
+* PyTorch
+* Transformers
+* Ollama
+* Whisper
+* AI SDK patterns
+
+---
+
+# 🖥️ Desktop Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=electron,qt,python&theme=dark"/>
+
+</div>
+
+### Desktop
+
+* Electron
+* PyQt6
+* Python desktop applications
+* Windows applications
+* Frameless applications
+* IPC architecture
+* Desktop AI
+* System integrations
+* Local model integration
+* PyInstaller
+* Electron Builder
+* Inno Setup
+
+---
+
+# 📱 Mobile
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react&theme=dark"/>
+
+</div>
+
+### Mobile Development
+
+* Android
+* Kotlin
+* Jetpack Compose
+* React Native
+* Mobile UI architecture
+* AI-powered Android applications
+* APK packaging
+* Mobile API integration
+
+---
+
+# ☁️ CLOUD / EDGE / INFRASTRUCTURE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cloudflare,firebase,gcp,vercel,netlify,docker,nginx&theme=dark"/>
+
+</div>
+
+### Cloud
+
+* Cloudflare
+* Cloudflare Workers
+* Cloudflare Pages
+* Firebase
+* Google Cloud
+* Vercel
+* Netlify
+* Edge computing
+* Serverless architecture
+* CDN
+* DNS
+* Domain architecture
+* Subdomain architecture
+* Environment configuration
+
+### THENUX Infrastructure
+
 ```text
-JavaScript   ████████████░░░░░░░░░   48%
-Python       ██████░░░░░░░░░░░░░░░   22%
-TypeScript   ██████░░░░░░░░░░░░░░░   20%
-Other        ██░░░░░░░░░░░░░░░░░░░   10%
+                   INTERNET
+                       │
+              ┌────────▼────────┐
+              │    CLOUDFLARE   │
+              │      EDGE       │
+              └────────┬────────┘
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+       THENUX AI   THENUX API   OTHER APPS
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                   FIREBASE
+                       │
+                       ▼
+                  APPLICATIONS
 ```
-<!--END_SECTION:waka-->
 
-[![WakaTime](https://wakatime.com/badge/user/thenuxofc.svg?style=for-the-badge&color=00ff41&labelColor=000000)](https://wakatime.com/@thenuxofc)
+---
+
+# 🔐 SECURITY & AUTHENTICATION
+
+### Security Areas
+
+* Authentication
+* Authorization
+* Firebase Authentication
+* API key management
+* Token-based systems
+* Access control
+* Rate limiting
+* Anti-abuse systems
+* API protection
+* Request validation
+* CORS
+* Security headers
+* Edge security
+* Cloudflare protection
+* Bot protection concepts
+* HMAC concepts
+* Cryptographic request validation
+* Session management
+* Secure environment variables
+* Secret management
+* Security architecture
+
+> Security is treated as part of the architecture rather than something added after deployment.
+
+---
+
+# 🔌 APIs & DEVELOPER INFRASTRUCTURE
+
+### API Technologies
+
+* REST
+* JSON APIs
+* Streaming APIs
+* SSE
+* WebSockets
+* Webhooks
+* API keys
+* SDK concepts
+* API documentation
+* Rate limits
+* Usage tracking
+* Authentication
+* Model routing
+* Service abstraction
+* Backend middleware
+
+### Developer Infrastructure
+
+* CLI tools
+* AI coding agents
+* API dashboards
+* Developer portals
+* Documentation systems
+* Deployment automation
+* Project scaffolding
+* Environment management
+
+---
+
+# ⚙️ AUTOMATION
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark"/>
+
+</div>
+
+### Automation Stack
+
+* Puppeteer
+* Playwright
+* Browser automation
+* Web scraping
+* API automation
+* Workflow automation
+* Node.js scripts
+* Python scripts
+* Shell automation
+* Deployment automation
+* AI-powered automation
+* Task automation
+
+---
+
+# 🧪 DEVELOPMENT TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
+
+</div>
+
+### Daily / Regular Tools
+
+* Git
+* GitHub
+* VS Code
+* Antigravity
+* Cline
+* Postman
+* Figma
+* Canva
+* Blender
+* npm
+* Node.js
+* Firebase Console
+* Cloudflare Dashboard
+* Netlify
+* Google AI Studio
+* Ollama
+
+---
+
+# 🎨 DESIGN / UI ENGINEERING
+
+I'm particularly interested in building interfaces that feel like **products**, not generated templates.
+
+### Design interests
+
+* Apple-style interfaces
+* Linear-style interfaces
+* Vercel-inspired design
+* Developer dashboards
+* Glassmorphism
+* Dark interfaces
+* Soft gradients
+* Animated backgrounds
+* Interactive grids
+* Micro-interactions
+* Motion design
+* Responsive layouts
+* Mobile-first design
+* High-FPS animations
+* WebGL experiences
+* 3D interfaces
+* Component systems
+* Design systems
+* Accessibility
+* Performance-oriented UI
+
+---
+
+# 🧱 ENGINEERING ARCHITECTURE
+
+```text
+                     ┌─────────────────────┐
+                     │      USER / APP     │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │    FRONTEND / UI    │
+                     │ React · Vite · Web  │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │   API / EDGE LAYER  │
+                     │ Workers · REST · SSE│
+                     └──────────┬──────────┘
+                                │
+                 ┌──────────────┼──────────────┐
+                 ▼              ▼              ▼
+           ┌──────────┐   ┌──────────┐   ┌──────────┐
+           │   AUTH   │   │  LOGIC   │   │  LIMITS  │
+           └──────────┘   └────┬─────┘   └──────────┘
+                               │
+                ┌──────────────┼──────────────┐
+                ▼              ▼              ▼
+           ┌──────────┐   ┌──────────┐   ┌──────────┐
+           │ DATABASE │   │ AI/LLMs  │   │ SERVICES │
+           └──────────┘   └──────────┘   └──────────┘
+```
+
+---
+
+# 📦 DEVELOPMENT WORKFLOW
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    THENUX WORKFLOW                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  01  IDEA                                                    │
+│      └── What problem are we solving?                        │
+│                                                              │
+│  02  RESEARCH                                                │
+│      └── Technology / architecture / constraints             │
+│                                                              │
+│  03  PRODUCT DESIGN                                          │
+│      └── UX / UI / flows / interactions                      │
+│                                                              │
+│  04  ARCHITECTURE                                             │
+│      └── Frontend / backend / data / APIs                    │
+│                                                              │
+│  05  IMPLEMENTATION                                          │
+│      └── Build the actual system                             │
+│                                                              │
+│  06  SECURITY                                                │
+│      └── Auth / validation / abuse prevention                │
+│                                                              │
+│  07  TESTING                                                 │
+│      └── Break it before users do                            │
+│                                                              │
+│  08  DEPLOYMENT                                              │
+│      └── Cloud / edge / production                           │
+│                                                              │
+│  09  OBSERVE                                                 │
+│      └── Errors / usage / performance                        │
+│                                                              │
+│  10  ITERATE                                                 │
+│      └── Version 2 → Version 3 → Version ∞                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=thenuxofc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=16&title_color=8affc1&icon_color=00ff88&text_color=c8d6d0&bg_color=080b09"/>
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=thenuxofc&theme=dark&hide_border=true&border_radius=16&ring=00ff88&fire=00ff88&currStreakLabel=8affc1&background=080b09&stroke=163326&sideLabels=8affc1&dates=71877a&currStreakNum=ffffff&sideNums=ffffff"/>
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=thenuxofc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=12&border_radius=16&title_color=8affc1&text_color=c8d6d0&bg_color=080b09"/>
+
+<img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=thenuxofc&theme=react-dark&hide_border=true&area=true&color=8affc1&line=00ff88&point=ffffff&bg_color=080b09&custom_title=Contribution%20Activity&radius=8"/>
 
 </div>
 
 ---
 
-## 🌊 Contribution Heatmap
+# 🐍 CONTRIBUTION FLOW
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00ff41/thenuxofc" alt="Contribution Chart" width="100%"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
 ---
 
-## 🔋 DevOps Dashboard
+# 🖥️ LIVE TERMINAL
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  THENUX CONTROL PANEL ————————————————————————— [██ LIVE]       ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  SERVICE                  STATUS       UPTIME     RESPONSE       ║
-║  ──────────────────────────────────────────────────────────────  ║
-║  🤖 Thenux AI (Jarvis)     🟢 ONLINE    99.5%      120ms         ║
-║  🌐 Thenux Browser         🟡 IN DEV    —          —             ║
-║  🎵 Thenux Music           🟡 IN DEV    —          —             ║
-║  🔌 Public APIs            🟢 ONLINE    99.7%      45ms          ║
-║  🔒 Auth Services          🟢 ONLINE    100.0%     8ms           ║
-║  📦 Open Source Repos      🟢 ACTIVE    ∞          —             ║
-║  💬 Collaboration DMs      🟡 BUSY      —          ~24h          ║
-║  🌍 Live Terminal          🟢 ONLINE    100.0%     thenuxdrop.netlify.app ║
-║  ☕ Coffee Supply          🔴 CRITICAL  —          REFILLING     ║
-║                                                                  ║
-║  > Last deploy: today @ some ungodly hour 🌙                    ║
-║  > Next feature: classified 🤫                                   ║
-╚══════════════════════════════════════════════════════════════════╝
+<div align="center">
+
+<a href="https://thenuxdrop.netlify.app/arcade">
+
+<img src="https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20THENUX%20LIVE%20TERMINAL-00ff88?style=for-the-badge&labelColor=080808&logo=gnubash&logoColor=00ff88"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://thenuxdrop.netlify.app/arcade">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=900&color=8AFFC1&background=080B09&center=true&vCenter=true&multiline=true&width=720&height=145&lines=thenux%40dev%3A~%24+whoami;THENUX+%E2%80%94+Independent+Developer+%26+AI+Builder;thenux%40dev%3A~%24+skills;JS+%7C+TS+%7C+Python+%7C+React+%7C+Node+%7C+AI;thenux%40dev%3A~%24+status;%5BONLINE%5D+%E2%80%94+BUILDING+THE+NEXT+THING" alt="Live Terminal Preview"/>
+
+</a>
+
+<br/>
+
+<a href="https://thenuxdrop.netlify.app/arcade">
+<b>→ Open Interactive Terminal</b>
+</a>
+
+</div>
+
+---
+
+# 🧠 CURRENTLY EXPLORING
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    CURRENT RESEARCH                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🤖 AI AGENTS                                                │
+│     Tool calling · planning · model routing                  │
+│                                                              │
+│  ⚡ REAL-TIME AI                                             │
+│     SSE · streaming · low-latency interfaces                 │
+│                                                              │
+│  🔌 API INFRASTRUCTURE                                      │
+│     Developer APIs · auth · quotas · usage                   │
+│                                                              │
+│  🛡️ SECURITY                                                │
+│     Edge protection · anti-abuse · secure APIs               │
+│                                                              │
+│  ☁️ EDGE COMPUTING                                          │
+│     Cloudflare Workers · serverless architecture             │
+│                                                              │
+│  🧑‍💻 DEVELOPER EXPERIENCE                                   │
+│     CLI agents · dashboards · tooling                        │
+│                                                              │
+│  🎓 AI + EDUCATION                                          │
+│     Study systems · focus tools · learning workflows         │
+│                                                              │
+│  🎨 PRODUCT DESIGN                                          │
+│     Motion · interaction · premium interfaces                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 Dev Philosophy
+# 🧭 PROJECT MAP
+
+```text
+THENUX
+│
+├── 🤖 AI
+│   ├── THENUX AI
+│   ├── JARVIS
+│   ├── Reply AI
+│   └── AI experiments
+│
+├── 🔌 INFRASTRUCTURE
+│   ├── THENUX API
+│   ├── THENUX Hosting
+│   └── Cloud / Edge experiments
+│
+├── ⚡ DEVELOPER TOOLS
+│   ├── THENUX CLI
+│   ├── ROOTCODE
+│   └── Developer utilities
+│
+├── 🌐 WEB
+│   ├── THENUX Mail
+│   ├── THENUX websites
+│   ├── SaaS experiments
+│   └── Interactive web projects
+│
+├── 🎓 PRODUCTIVITY
+│   ├── THENUX Scholar
+│   ├── THENUX Study
+│   └── Lock-in systems
+│
+├── 📱 APPLICATIONS
+│   ├── Billing
+│   ├── GlucoGuide
+│   ├── AQUINAS
+│   └── Other experiments
+│
+└── 🧪 EXPERIMENTS
+    ├── AI
+    ├── WebGL
+    ├── Automation
+    ├── Desktop
+    └── New ideas
+```
+
+---
+
+# 📈 WHAT I'M GETTING BETTER AT
+
+```text
+AI Engineering       █████████████████████████░░░
+System Architecture  ████████████████████████░░░
+Frontend Engineering █████████████████████████░░
+Backend Engineering  ████████████████████████░░░
+API Design           █████████████████████████░░
+Cloud / Edge         ███████████████████████░░░░
+Security             ███████████████████████░░░░
+UI / UX              █████████████████████████░░
+Automation           ████████████████████████░░░
+DevOps               ████████████████████░░░░░░
+System Design        ███████████████████████░░░░
+```
+
+> These are intentionally **not proficiency scores**. Technology changes too quickly for a GitHub profile to pretend that engineering skill is a fixed percentage.
+
+---
+
+# 🧠 ENGINEERING PRINCIPLES
 
 <div align="center">
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   "Ship fast. Learn faster. Build what matters."           │
+│   BUILD SOMETHING REAL                                      │
 │                                                             │
-│   "An API is only as good as its documentation."           │
+│   Ship → Observe → Learn → Improve                          │
 │                                                             │
-│   "Clean code > Clever code. Always."                      │
-│                                                             │
-│   "Open source today = someone's foundation tomorrow."     │
-│                                                             │
-│   "If it's not monitored, it doesn't exist in prod."       │
-│                                                             │
-│   "The best time to start was yesterday.                   │
-│    The second best time is right now."                     │
+│   Good UX is engineering.                                   │
+│   Security is architecture.                                 │
+│   Performance is a feature.                                 │
+│   Documentation is part of the product.                    │
+│   Open source is a multiplier.                              │
+│   Every failed experiment is useful data.                   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -366,77 +1120,84 @@ Other        ██░░░░░░░░░░░░░░░░░░░   1
 
 ---
 
-## 🎯 Currently
+# 🎯 2026 STATUS
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════╗
-║                   STATUS BOARD 2026                    ║
-╠════════════════════════════════════════════════════════╣
-║  🔭 Building     → Thenux AI (Jarvis), Browser & Music ║
-║  🌱 Learning     → LLM Fine-tuning & AI Agents        ║
-║  👯 Looking For  → Open Source AI collaborations      ║
-║  💬 Ask Me About → JS · Node.js · APIs · AI · Desktop ║
-║  🔌 Side Project → Public API with 1k+ endpoints      ║
-║  🎵 Coding To    → Lo-fi hip hop + synthwave           ║
-║  ⚡ Fun Fact     → I turn ☕ into 🔌 every single day  ║
-║  🌍 Time Zone    → Asia/Colombo GMT+5:30 🇱🇰           ║
-║  📅 Available    → Open to freelance & collabs         ║
-╚════════════════════════════════════════════════════════╝
-```
+| Area              | Current Direction                                     |
+| :---------------- | :---------------------------------------------------- |
+| 🤖 AI             | Building AI products and agent systems                |
+| 🔌 APIs           | Expanding THENUX developer infrastructure             |
+| ⚡ CLI             | Building AI-assisted developer tooling                |
+| 🌐 Web            | Shipping real production web applications             |
+| 🖥️ Desktop       | Continuing JARVIS and desktop AI experiments          |
+| 🎓 Education      | Building AI-powered study/productivity systems        |
+| 🔐 Security       | Improving authentication and API protection           |
+| ☁️ Infrastructure | Exploring edge/serverless architectures               |
+| 🎨 Design         | Premium dark, responsive, high-performance interfaces |
+| 🧪 Research       | Constantly experimenting with new technologies        |
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+# 🌍 THE MISSION
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=thenuxofc&limit=6&theme=dark&combine_all_yearly_contributions=true&hide_contributor_rank=false&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=ccffcc)
+### `Don't just use technology. Build with it.`
+
+<br/>
+
+I want to keep learning, building and shipping software that is actually useful.
+
+<br/>
+
+**AI → Infrastructure → Products → Developer Tools → Applications**
+
+<br/>
+
+`Build.` `Break.` `Learn.` `Rebuild.` `Ship.`
 
 </div>
 
 ---
 
-## ✍️ Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-## 🤝 Let's Connect
+# 🤝 CONNECT
 
 <div align="center">
 
 <a href="https://github.com/thenuxofc">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
-&nbsp;
+
+<a href="https://thenuxofc.store/">
+<img src="https://img.shields.io/badge/THENUX-00ff88?style=for-the-badge&labelColor=080808"/>
+</a>
+
+<a href="https://ai.thenuxofc.store/">
+<img src="https://img.shields.io/badge/THENUX_AI-00ff88?style=for-the-badge&labelColor=080808"/>
+</a>
+
+<a href="https://api.thenuxofc.store/">
+<img src="https://img.shields.io/badge/THENUX_API-00ff88?style=for-the-badge&labelColor=080808"/>
+</a>
+
 <a href="https://instagram.com/thenux_ofc">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
-&nbsp;
+
 <a href="mailto:sup@thenuxofc.store">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://thenuxdrop.netlify.app/">
-  <img src="https://img.shields.io/badge/Terminal-00ff41?style=for-the-badge&logo=gnubash&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-> 💬 **Open to collaborations, freelance projects & open-source!**
->
-> 🌟 *Dropped a ⭐? You just made my day — seriously.*
->
-> 🇱🇰 *Sri Lanka's dev scene is rising. Let's build something legendary.*
+<b>Open to interesting collaborations, projects and ideas.</b>
+
+<br/><br/>
+
+🇱🇰 **Built from Sri Lanka. Shared with the world.**
 
 </div>
 
@@ -444,18 +1205,18 @@ Other        ██░░░░░░░░░░░░░░░░░░░   1
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff41&height=130&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=00ff41&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:07130d,100:00ff88&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-<sub>⚡ Crafted with passion & dangerous amounts of ☕ by <b>THENUX</b> from 🇱🇰</sub><br/>
-<sub><i>"Build something people will remember."</i> ✨</sub>
+<br/>
+
+<sub>
+⚡ Crafted with code, curiosity & unreasonable amounts of ☕ by <b>THENUX</b>
+</sub>
+
+<br/>
+
+<sub>
+<i>"Build something people will remember."</i>
+</sub>
 
 </div>
-
-<!--
-  ███████╗███╗   ██╗██████╗     ████████╗██╗  ██╗███████╗███╗   ██╗██╗   ██╗██╗  ██╗
-  ██╔════╝████╗  ██║██╔══██╗    ╚══██╔══╝██║  ██║██╔════╝████╗  ██║██║   ██║╚██╗██╔╝
-  █████╗  ██╔██╗ ██║██║  ██║       ██║   ███████║█████╗  ██╔██╗ ██║██║   ██║ ╚███╔╝ 
-  ██╔══╝  ██║╚██╗██║██║  ██║       ██║   ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║ ██╔██╗ 
-  ███████╗██║ ╚████║██████╔╝       ██║   ██║  ██║███████╗██║ ╚████║╚██████╔╝██╔╝ ██╗
-  ╚══════╝╚═╝  ╚═══╝╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
--->
