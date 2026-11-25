@@ -54,10 +54,20 @@ I care most about the intersection of **Artificial Intelligence x Software Engin
 | **Philosophy** | Build, Ship, Learn, Improve |
 | **Status** | Open for projects |
 
+<div align="center">
+<img src="assets/rings.svg" width="100%" alt="Animated activity rings for Build, Ship and Learn with widgets"/>
+</div>
+
 <img src="assets/section-build.svg" width="100%" alt="What I build"/>
 
 <div align="center">
 <img src="assets/bento.svg" width="100%" alt="What Thenux builds: web experiences, AI products, Android apps, developer tools, APIs and edge, bots and automation"/>
+</div>
+
+<div align="center">
+<img src="assets/ai-prompt.svg" width="100%" alt="Animated AI prompt bar with a glowing border typing example prompts"/>
+<br/><br/>
+<img src="assets/lockscreen.svg" width="100%" alt="Phone lock screen with notifications from THENUX AI, Reply AI, SULA MD, ROOTCODE and THENUX API"/>
 </div>
 
 ### Services
@@ -191,6 +201,12 @@ A Python and PyQt6 voice and visual AI assistant for Windows.
 <img src="assets/roadmap.svg" width="100%" alt="Roadmap of THENUX products with status: building, shipped, designing and exploring"/>
 </div>
 
+<img src="assets/section-log.svg" width="100%" alt="Shipping log"/>
+
+<div align="center">
+<img src="assets/shipping-log.svg" width="100%" alt="Shipping log for June and July 2026"/>
+</div>
+
 <img src="assets/section-stealth.svg" width="100%" alt="In stealth"/>
 
 <div align="center">
@@ -205,6 +221,12 @@ A Python and PyQt6 voice and visual AI assistant for Windows.
 <img src="assets/editor.svg" width="88%" alt="Animation of a React and Framer Motion component being typed with a live preview"/>
 <br/><br/>
 <img src="assets/dock.svg" width="88%" alt="Animated dock of web technologies: JavaScript, TypeScript, React, Next.js, Tailwind, Node.js, Python, Kotlin, Firebase, Cloudflare, GitHub, Figma"/>
+</div>
+
+<img src="assets/section-principles.svg" width="100%" alt="Principles"/>
+
+<div align="center">
+<img src="assets/control-center.svg" width="100%" alt="Control center style toggles: performance, accessibility, SEO, security, motion, dark mode, responsive, bilingual"/>
 </div>
 
 ### The web developer toolkit
@@ -397,6 +419,10 @@ I want to keep learning, building and shipping software that is actually useful.
 <a href="https://instagram.com/thenux_ofc"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
 <a href="https://linkedin.com/in/thenuxofc"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/></a>
 <a href="mailto:sup@thenuxofc.store"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="assets/contact.svg" width="46%" alt="Thenux contact card: message, mail, website, GitHub"/>
 
 <br/><br/>
 
